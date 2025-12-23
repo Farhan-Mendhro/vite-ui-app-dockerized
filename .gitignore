@@ -1,0 +1,11 @@
+node_modules
+dist
+tauri-ui
+others
+
+templates/**/.next/
+templates/**/dist/
+templates/**/node_modules/
+templates/**/src-tauri/target/
+
+*.tgz
