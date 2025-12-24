@@ -13,10 +13,10 @@ Based on: [https://github.com/agmmnn/tauri-ui.git]
 ## Quick Start
 ```bash
 docker pull farhan249/vite-ui-app
-docker run -p 8000:80 farhan249/vite-ui-app
+docker run -p 80:80 farhan249/vite-ui-app
 ```
 
-Open http://localhost:8000
+Open http://localhost:80
 
 ## What I Learned
 - Writing Dockerfiles
